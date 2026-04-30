@@ -18,4 +18,4 @@ npm start
 
 ## API Configuration
 Update API base URL in:
-src/config.js
+----
